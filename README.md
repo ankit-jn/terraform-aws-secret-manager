@@ -8,6 +8,7 @@ This module features the following components to be provisioned:
 
 - Secret Manager Secret [[aws_secretsmanager_secret](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/secretsmanager_secret)]
 - Secret Manager Secret Version [[aws_secretsmanager_secret_version](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/secretsmanager_secret_version)]
+- Secret Manager Secret Policy [[aws_secretsmanager_secret_policy](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/secretsmanager_secret_policy)]
 - Secret Manager Secret Rotation [[aws_secretsmanager_secret_rotation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/secretsmanager_secret_rotation)]
 
 ### Requirements
