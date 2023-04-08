@@ -26,7 +26,7 @@ This module features the following components to be provisioned:
 
 ### Examples
 
-Refer [Configuration Examples](https://github.com/arjstack/terraform-aws-examples/tree/main/aws-secret-manager) for effectively utilizing this module.
+Refer [Configuration Examples](https://github.com/ankit-jn/terraform-aws-examples/tree/main/aws-secret-manager) for effectively utilizing this module.
 
 ### Inputs
 ---
@@ -55,4 +55,4 @@ Refer [Configuration Examples](https://github.com/arjstack/terraform-aws-example
 
 ### Authors
 
-Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/arjstack/terraform-aws-secret-manager/graphs/contributors).
+Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/ankit-jn/terraform-aws-secret-manager/graphs/contributors).
